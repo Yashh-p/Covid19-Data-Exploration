@@ -5,6 +5,8 @@ The COVID-19 pandemic has significantly impacted global health, economies, and s
 Exploration and Analysis Approach:
 While exploring COVID-19 data with SQL, I focused on understanding key trends, patterns, and correlations within the dataset. This involved analyzing factors such as infection rates over time, geographical distribution of cases, demographic factors influencing transmission, and the impact of public health interventions. By leveraging SQL queries, I aimed to uncover actionable insights that can inform decision-making, policy development, and public health strategies in response to the pandemic.
 
+Data Source: https://ourworldindata.org/coronavirus [Provided a rar file of data]
+
 Key Tasks Performed:
 
 * Checked all the details of the table such as column names, data types, and constraints.
